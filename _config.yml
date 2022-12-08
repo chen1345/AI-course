@@ -1,9 +1,9 @@
 title: AI course
-tagline: Deep Learning Lecture
+tagline: capstone project
 
 author:
-  name: Richard Kuo
-  url: https://www.facebook.com/richard.kuo.168
+  name: Yi shan Chen
+  url: https://www.facebook.com/yishan
 
 plugins:
   - jekyll-feed
