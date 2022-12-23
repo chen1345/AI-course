@@ -5,7 +5,7 @@ author: [chenyishan]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
-## the classification of algaes and corals(海藻和珊瑚辨識) by 00953122 鍾佳錡
+## the classification of algaes and corals(海藻和珊瑚辨識) 
 
 ---
 ### 組員
