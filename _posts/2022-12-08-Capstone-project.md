@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capstone Project
-author: [chungchachi]
+author: [ch]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
